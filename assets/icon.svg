@@ -1,0 +1,11 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="triGrad" x1="200" y1="106" x2="200" y2="258" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FAC9C6"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="400" height="400" rx="88" fill="#E8302F"/>
+  <path d="M136,106 L264,106 A22,22 0 0,1 282.93,139.22 L218.93,247.22 A22,22 0 0,1 181.07,247.22 L117.07,139.22 A22,22 0 0,1 136,106 Z" fill="url(#triGrad)"/>
+  <rect x="150" y="282" width="100" height="16" rx="8" fill="#FFFFFF" fill-opacity="0.92"/>
+</svg>
